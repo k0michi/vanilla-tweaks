@@ -1,0 +1,7 @@
+{
+  "package": "com.koyomiji.vanillatweaks.mixins",
+  "mixins": ["MixinPlayer", "MixinArrowInfiniteEnchantment"],
+  "client": [],
+  "server": [],
+  "refmap": "mixins.vanillatweaks.refmap.json"
+}
